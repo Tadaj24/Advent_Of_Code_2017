@@ -1,0 +1,7 @@
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\bin\Debug\day_12.exe.config
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\bin\Debug\day_12.exe
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\bin\Debug\day_12.pdb
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\obj\Debug\day_12.csproj.CoreCompileInputs.cache
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\obj\Debug\day_12.exe
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\obj\Debug\day_12.pdb
+E:\Nauka\Kurs C#\Advent of Code 2017\day_12\day_12\obj\Debug\day_12.csprojResolveAssemblyReference.cache
